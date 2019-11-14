@@ -23,4 +23,8 @@
    - Command
    - Momento
    - Mediator
+   
+   
+What about anti-pattern? 
+anti pattern is just fancy name, it same as structural no pattern at all.  
 
