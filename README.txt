@@ -1,6 +1,6 @@
 #There is 3 types of Design Pattern
 1. Creation
-   ..* Prototype
+   - Prototype
    - Builder
    - Singleton
    - Factory
