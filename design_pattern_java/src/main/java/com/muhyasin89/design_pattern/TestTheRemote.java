@@ -1,15 +1,10 @@
 package com.muhyasin89.design_pattern;
 
 /**
- * Hello world!
- *
+ * This class is main class
  */
-public class App 
-{
-    public static void main( String[] args)
-    {
-        // System.out.println( "Hello World!" );
-
+public class TestTheRemote {
+    public static void main(String[] args){
         RemoteButton theTV = new TVRemoteMute(new TVDevice(1, 200));
 
         RemoteButton theTV2 = new TVRemotePause(new TVDevice(1,200));
