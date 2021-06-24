@@ -28,3 +28,5 @@
 What about anti-pattern? 
 anti pattern is just fancy name, it same as structural no pattern at all.  
 
+Reference:
+https://github.com/codebasics/py/blob/master/TechTopics/CodingBestPractices/coding_best_practices.md
